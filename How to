@@ -1,0 +1,11 @@
+Breakout
+
+Ein Rechteck als horizontal kontrollierbares Objekt
+Ein Ball der das Objekt abprallen lassen kann
+Der Ball kann nur unter dem Objekt aus dem Spiel
+An allen anderen Wänden prallt der Ball ab
+Es gibt Blöcke die im Kontakt mit dem Ball kaputt gehen
+Wenn alle Blöcke kaputt sind ist das Spiel vorbei
+
+
+ball 20x20

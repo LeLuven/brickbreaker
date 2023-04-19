@@ -1,0 +1,7 @@
+# ninja log v5
+2	667	1680433934582032669	CMakeFiles/astroids.dir/ball.cpp.o	e13a7c2263371ff0
+2	530	1680433934445539794	CMakeFiles/astroids.dir/breaker.cpp.o	6d3fd493f5a73728
+2	507	1680433934421239586	CMakeFiles/astroids.dir/bricks.cpp.o	94900b14bfb5f4b6
+723	905	1680433934821034002	bin/astroids	642ce9162eefc7d1
+2	723	1680433934637618211	CMakeFiles/astroids.dir/main.cpp.o	a7bc7f1ec6665b7e
+1	105	1681907354504357957	build.ninja	71d1348282bbf463

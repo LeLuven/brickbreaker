@@ -1,0 +1,3 @@
+/Users/jonasluven/CLionProjects/astroids/cmake-build-debug/CMakeFiles/astroids.dir
+/Users/jonasluven/CLionProjects/astroids/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonasluven/CLionProjects/astroids/cmake-build-debug/CMakeFiles/rebuild_cache.dir
